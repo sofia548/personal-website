@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right, rgb(112, 104, 104) 60%, rgb(65, 59, 56) 0%);
+    font-family: 'Supermercado One', cursive;
+    font-size: 33px;
+}
+.imgright {
+    transform: scale(0.5);
+    margin-right: 1300px;
+}
